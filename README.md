@@ -1,4 +1,3 @@
-# Resume of Shuxiang Hu
 # 个人信息
 
  - 胡舒翔/男/2000 
@@ -23,7 +22,7 @@
 
 开发环境：Java
 
-链接：
+链接：https://github.com/Shuxiang-Hu/Route-Searching
 
 - 从特定格式的文件中读取问题的实例
 
@@ -35,7 +34,7 @@
 
 开发环境：Matlab
 
-链接：
+链接：https://github.com/Shuxiang-Hu/Plant-segmentation
 
 - 通过高斯滤波器去除图像噪音
 - 利用超像素算法对图像进行分割
@@ -47,7 +46,7 @@
 
 开发环境：Java
 
-链接：
+链接：https://github.com/Shuxiang-Hu/Best-Sokoban-Ever
 
 - 使用了MVC， Factory, Singleton等设计模式。Viewer 负责由JavaFX 开发的UI和音乐播放， Controller负责接收用户的键盘输入， model负责游戏内的数据。
 - 通过 JUnit 测试游戏底层逻辑如人物移动，碰撞检测的。
@@ -58,7 +57,7 @@
 
 开发环境：html/css/js
 
-链接：
+链接：https://github.com/Shuxiang-Hu/Mask-sales-system
 
 - 我从零设计了数据库来储存用户信息以及交易详情， 并且使用了normalization等数据库优化方法。
 - 我设计了网站的用户交互界面。
@@ -84,4 +83,8 @@
 - 英国诺丁汉大学 OUG_FEE_Scholarship (1500£, 2020)
 - 宁波诺丁汉大学计算机学院院长奖学金 （6000¥, 2019-2020）
 - 宁波诺丁汉大学计算机学院院长奖学金 （6000¥,2018-2019）
+
+
+
+
 
