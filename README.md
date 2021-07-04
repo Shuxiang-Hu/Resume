@@ -71,7 +71,7 @@
 
 - Git, Markdown,Latex, Matlab, Jupyter Notebook
 
-- 英语：雅思7.5
+- 英语：雅思 8.0
 
   
 
